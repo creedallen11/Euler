@@ -19,7 +19,7 @@ name hashing:
 1 items
 0 -> true
 products:
-37 items
+58 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/Solution.class
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$1.class
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$isPrime$1.class
@@ -34,10 +34,31 @@ products:
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s1.class
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s10$$anonfun$solve$1.class
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s10.class
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$1.class
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$2.class
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$3.class
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$4.class
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s12.class
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s13$$anonfun$1.class
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s13.class
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s14$$anonfun$solve$1.class
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s14.class
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s15.class
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s16$$anonfun$solve$1.class
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s16.class
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s17$$anonfun$1.class
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s17$$anonfun$solve$1.class
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s17.class
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s18$$anonfun$1$$anonfun$apply$1.class
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s18$$anonfun$1.class
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s18.class
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s19.class
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$1.class
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$2.class
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$fib$1.class
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s2.class
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s20$$anonfun$solve$1.class
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s20.class
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s3.class
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s4$$anonfun$1$$anonfun$apply$1.class
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s4$$anonfun$1$$anonfun$apply$2.class
@@ -58,7 +79,7 @@ products:
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s9$$anonfun$1.class
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> /Users/Creed/euler/Euler/target/scala-2.10/classes/s9.class
 binary dependencies:
-26 items
+44 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
@@ -69,8 +90,26 @@ binary dependencies:
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
@@ -94,21 +133,32 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-26 items
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s1.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s10.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s2.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s3.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s4.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s5.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s6.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s7.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s8.scala
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s9.scala
+37 items
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s12.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s13.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s14.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s15.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s16.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s17.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s18.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s19.scala
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> /Users/Creed/euler/Euler/src/main/scala/s20.scala
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/euler/Euler/src/main/scala/functions.scala
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/src/main/scala/functions.scala
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Users/Creed/euler/Euler/src/main/scala/functions.scala
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/euler/Euler/src/main/scala/functions.scala
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Users/Creed/euler/Euler/src/main/scala/functions.scala
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
@@ -124,10 +174,19 @@ member reference internal dependencies:
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
-10 items
+19 items
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
 /Users/Creed/euler/Euler/src/main/scala/s5.scala -> /Users/Creed/euler/Euler/src/main/scala/Solution.scala
@@ -138,7 +197,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-37 items
+58 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> Solution
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> functions
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> functions$
@@ -153,10 +212,31 @@ class names:
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> s1$$anonfun$solve$1
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> s10
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> s10$$anonfun$solve$1
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12$$anonfun$1
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12$$anonfun$2
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12$$anonfun$3
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12$$anonfun$4
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> s13
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> s13$$anonfun$1
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> s14
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> s14$$anonfun$solve$1
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> s15
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> s16
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> s16$$anonfun$solve$1
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> s17
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> s17$$anonfun$1
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> s17$$anonfun$solve$1
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> s18
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> s18$$anonfun$1
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> s18$$anonfun$1$$anonfun$apply$1
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> s19
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> s2
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> s2$$anonfun$1
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> s2$$anonfun$2
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> s2$$anonfun$fib$1
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> s20
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> s20$$anonfun$solve$1
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> s3
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> s4
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> s4$$anonfun$1
@@ -177,7 +257,7 @@ class names:
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> s9$$anonfun$1$$anonfun$apply$2$$anonfun$apply$1
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> s9$$anonfun$1$$anonfun$apply$2$$anonfun$apply$3
 used names:
-279 items
+526 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> <init>
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> AnyRef
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> Predef
@@ -187,16 +267,20 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> %
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> *
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> -
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> /
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> ::
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> <init>
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> ==
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> AnyRef
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> BigInt
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> BigIntIsIntegral
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> Int
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> Iterator
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> List
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> Long
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> None
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> Numeric
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> Predef
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> a
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> apply
@@ -204,12 +288,14 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> augmentString
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> b
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> exists
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> factorial
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> find
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> from
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> functions
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> gcf
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> get
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> immutable
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> int2bigInt
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> intWrapper
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> isInstanceOf
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> isPrime
@@ -220,6 +306,9 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> package
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> prime
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> prime_factorization
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> product
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> qual$1
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> r
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> reverse
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> scala
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> sqrt
@@ -230,22 +319,23 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> toString
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> unary_!
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> x
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> x$6
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> x$7
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> +
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> <init>
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> App
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> Predef
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> println
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> results
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s1
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s10
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s2
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s3
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s4
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s5
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s6
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s7
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s8
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> s9
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s12
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s13
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s14
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s15
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s16
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s17
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s18
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s19
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> s20
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> scala
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> solve
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> %
@@ -282,6 +372,226 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> sum
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> to
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> *
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> /
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> >=
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Int
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> IntIsIntegral
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Iterable
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Iterator
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Long
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Numeric
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> _2
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> ans
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> canBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> countFactors
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> find
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> from
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> functions
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> get
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> groupBy
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> identity
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> immutable
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> length
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> math
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> n
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> package
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> prime_factorization
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> product
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> s12
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> target
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> toLong
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> triangleSeries
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> trianglify
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Array
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> BigInt
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> BigIntIsIntegral
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> ClassTag
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Codec
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Numeric
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> Source
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> answer
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> apply
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> augmentString
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> canBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> close
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> fallbackSystemCodec
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> fromFile
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> io
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> lines
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> materializeClassTag
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> math
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> mkString
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> numbers
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> package
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> refArrayOps
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> s13
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> source
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> split
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> sum
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> take
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> %
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> *
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> /
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> ==
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> Int
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> Long
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> Ordering
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> collatz
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> intWrapper
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> len
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> math
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> maxBy
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> n
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> par
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> s14
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> start
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> to
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> toLong
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> wrapper
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> functions
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> nChooseR
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> s15
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> <<
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> BigInt
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> IntIsIntegral
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> Numeric
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> apply
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> asDigit
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> augmentString
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> charWrapper
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> fallbackStringCanBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> math
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> package
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> s16
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> sum
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> %
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> -
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> ->
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> /
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> <
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> ==
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> IndexedSeq
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> Int
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> Map
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> String
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> any2ArrowAssoc
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> apply
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> augmentString
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> canBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> flatten
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> immutable
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> intWrapper
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> length
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> n
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> num
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> s17
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> single
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> threeDigit
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> to
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> twoDigit
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> w
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> words
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> ==
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Array
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> ClassTag
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Codec
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Int
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> Source
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> apply
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> augmentString
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> canBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> fallbackSystemCodec
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> fromFile
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> getLines
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> i
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> intArrayOps
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> intWrapper
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> io
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> j
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> length
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> line
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> materializeClassTag
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> matrix
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> max
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> maxDescent
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> package
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> refArrayOps
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> s18
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> source
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> split
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> toInt
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> toList
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> !=
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> %
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> &&
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> +
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> /
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> ==
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> Int
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> List
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> apply
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> count
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> countSundays
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> dayOfWeek
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> daysInMonth
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> endYear
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> immutable
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> leapYear
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> month
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> newCount
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> newDay
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> newMonth
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> newYear
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> s19
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> toString
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> year
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> ||
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> #::
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> %
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> +
@@ -308,6 +618,23 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> toString
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> x
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> y
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> <init>
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> IntIsIntegral
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> Numeric
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> Predef
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> Solution
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> asDigit
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> augmentString
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> charWrapper
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> factorial
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> fallbackStringCanBuildFrom
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> functions
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> map
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> math
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> s20
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> scala
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> sum
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> toString
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> <init>
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> Solution
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> functions
@@ -458,25 +785,46 @@ used names:
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> view
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> withFilter
 product stamps:
-37 items
+58 items
 /Users/Creed/euler/Euler/target/scala-2.10/classes/Solution.class -> lastModified(1463622735000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$1.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$isPrime$1.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$isPrime$2.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$nextPrime$1.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/functions.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/results$.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/results$delayedInit$body.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/results.class -> lastModified(1463626477000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$1.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$isPrime$1.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$isPrime$2.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$$anonfun$nextPrime$1.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions$.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/functions.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/results$.class -> lastModified(1463637818000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/results$delayedInit$body.class -> lastModified(1463637818000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/results.class -> lastModified(1463637818000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s1$$anonfun$solve$1.class -> lastModified(1463622735000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s1.class -> lastModified(1463622735000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/s10$$anonfun$solve$1.class -> lastModified(1463626477000)
-/Users/Creed/euler/Euler/target/scala-2.10/classes/s10.class -> lastModified(1463626477000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s10$$anonfun$solve$1.class -> lastModified(1463626826000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s10.class -> lastModified(1463626826000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$1.class -> lastModified(1463631032000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$2.class -> lastModified(1463631032000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$3.class -> lastModified(1463631032000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s12$$anonfun$4.class -> lastModified(1463631032000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s12.class -> lastModified(1463631032000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s13$$anonfun$1.class -> lastModified(1463631545000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s13.class -> lastModified(1463631545000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s14$$anonfun$solve$1.class -> lastModified(1463633859000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s14.class -> lastModified(1463633859000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s15.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s16$$anonfun$solve$1.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s16.class -> lastModified(1463635974000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s17$$anonfun$1.class -> lastModified(1463636885000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s17$$anonfun$solve$1.class -> lastModified(1463636885000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s17.class -> lastModified(1463636885000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s18$$anonfun$1$$anonfun$apply$1.class -> lastModified(1463637656000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s18$$anonfun$1.class -> lastModified(1463637656000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s18.class -> lastModified(1463637656000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s19.class -> lastModified(1463637818000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$1.class -> lastModified(1463622735000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$2.class -> lastModified(1463622735000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s2$$anonfun$fib$1.class -> lastModified(1463622735000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s2.class -> lastModified(1463622735000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s20$$anonfun$solve$1.class -> lastModified(1463637818000)
+/Users/Creed/euler/Euler/target/scala-2.10/classes/s20.class -> lastModified(1463637818000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s3.class -> lastModified(1463622735000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s4$$anonfun$1$$anonfun$apply$1.class -> lastModified(1463623892000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s4$$anonfun$1$$anonfun$apply$2.class -> lastModified(1463623892000)
@@ -497,13 +845,23 @@ product stamps:
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s9$$anonfun$1.class -> lastModified(1463626477000)
 /Users/Creed/euler/Euler/target/scala-2.10/classes/s9.class -> lastModified(1463626477000)
 source stamps:
-13 items
+23 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> hash(90df1d83aa3d96fc9f940b15565596bec4a62280)
-/Users/Creed/euler/Euler/src/main/scala/functions.scala -> hash(006fb0d75ed226d358fe75401170b1e1e845e7a8)
-/Users/Creed/euler/Euler/src/main/scala/results.scala -> hash(45fcc16833f4d1a09d282744952575e3845f9535)
+/Users/Creed/euler/Euler/src/main/scala/functions.scala -> hash(9ad9ea52f5a4bd25cb41ec9e57ed24dd2fa08023)
+/Users/Creed/euler/Euler/src/main/scala/results.scala -> hash(297159aa809f01a24b9452d12f72e59a0290586d)
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> hash(6435911ad9e6d50775c32ad31977571f65d5c02c)
-/Users/Creed/euler/Euler/src/main/scala/s10.scala -> hash(2cf99d0f202e7031f9f24e09d28a5a64887fb903)
+/Users/Creed/euler/Euler/src/main/scala/s10.scala -> hash(c051f3ff553aed2933f56716f2bafdc380eeb994)
+/Users/Creed/euler/Euler/src/main/scala/s11.scala -> hash(edb8fba4210b56291d40d738c476f089d9df78d4)
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> hash(d347a92069746add61c7ea3ee3fa0e494b66ca02)
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> hash(cefa459c0076b35f58b22bcf2f3209a8bc5cfbd9)
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> hash(d9fd82d5adba4a50dfdc55e5c0c20489c05dfa67)
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> hash(9a7b214d3e75f0a80b54573a56270737216352aa)
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> hash(6d37bfd9fa6c5755e5fd0716d54063b18ccc602e)
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> hash(8ea204a55a19bd9b67646674017a61bc2b801167)
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> hash(fd2fb7474379611fdbfda8c405b9f79356b95e0b)
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> hash(de44654311762815e92632f57128c0b9c731ff4e)
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> hash(f0e5732615ad87027d867dfaee7120cacd17173a)
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> hash(ecd8c4141fe359e987097359053fa0072d93aadc)
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> hash(cce266780091aa55e33bb4acc3c543b9fdfb9847)
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> hash(f2d3a8be41bb118ff78e9b3bb86637fd607cf00b)
 /Users/Creed/euler/Euler/src/main/scala/s5.scala -> hash(6d80699e8a91c41a9a434288086d09500f132520)
@@ -518,21 +876,41 @@ binary stamps:
 class names:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.String
-/Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.collection.generic.FilterMonadic
+/Users/Creed/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.math.Numeric$
 internal apis:
-13 items
+23 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA5Ss3UAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG8s4Lx0AAZub3RpZnlzcQB+AAzj/5kRdAAIU29sdXRpb25zcQB+AAwyYKgEdAAEd2FpdHNxAH4ADPF6rv90AA0kYXNJbnN0YW5jZU9mc3EAfgAMriDI5XQABXNvbHZlc3EAfgAMk4Ct/nQABmVxdWFsc3NxAH4ADLv2h5N0AAxhc0luc3RhbmNlT2ZzcQB+AAyC/75kdAAMc3luY2hyb25pemVkc3EAfgAMR/ee4XQADSRpc0luc3RhbmNlT2ZzcQB+AAyTlyq9dAAJbm90aWZ5QWxsc3EAfgAMubvDDXQADGlzSW5zdGFuY2VPZnNxAH4ADMathVJ0AAY8aW5pdD5zcQB+AAwxDkOYdAACPT1zcQB+AAya3TKTdAAFY2xvbmVzcQB+AAw6z/oLdAAIdG9TdHJpbmdzcQB+AAy3vPVYdAACIT1zcQB+AAyUk8g8dAAIZ2V0Q2xhc3NzcQB+AAxeaAACdAACbmVzcQB+AAxYUdFqdAACZXFzcQB+AAw8wSQldAACIyNzcQB+AAwP+gvadAAIZmluYWxpemVzcQB+AAwxeDKBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBhc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AeXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenNxAH4AbXQAA0FueXNxAH4AcXNxAH4AdHVxAH4AdwAAAAJzcQB+AHl0AAVzY2FsYXEAfgCAcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMa2kH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSQ3x2Dqj2W/J+UCxVWVZa+xKYigA==
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAGqwO7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKeuPTl0AANnY2ZzcQB+AAym3yZJdAAGbm90aWZ5c3EAfgAMMCiadHQABHdhaXRzcQB+AAzwunW5dAANJGFzSW5zdGFuY2VPZnNxAH4ADICH/Kx0AAxpc1BhbGluZHJvbWVzcQB+AAwd+H/ydAAGZXF1YWxzc3EAfgAMgIpH8HQADGFzSW5zdGFuY2VPZnNxAH4ADKGJk890AAxzeW5jaHJvbml6ZWRzcQB+AAzkug+hdAANJGlzSW5zdGFuY2VPZnNxAH4ADC14Zod0AAluZXh0UHJpbWVzcQB+AAyPpKTOdAAJbm90aWZ5QWxsc3EAfgAMZksP9HQADGlzSW5zdGFuY2VPZnNxAH4ADBO08tV0ABNwcmltZV9mYWN0b3JpemF0aW9uc3EAfgAMguUDsnQAAj09c3EAfgAM85C263QAB2lzUHJpbWVzcQB+AAwDto0vdAAFY2xvbmVzcQB+AAzHbO1JdAAIdG9TdHJpbmdzcQB+AAxbhDRWdAACIT1zcQB+AAyCdzv3dAAJZnVuY3Rpb25zc3EAfgAMa6skZnQACGdldENsYXNzc3EAfgAMehjyT3QAAm5lc3EAfgAMF0f8rXQAA2xjbXNxAH4ADEyCiEV0AAJlcXNxAH4ADEo0RRJ0AAIjI3NxAH4ADP/0x4Z0AAhmaW5hbGl6ZXNxAH4ADCtgoPl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGN4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGIAcHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGtzcQB+AGIAcHNxAH4AZ3VxAH4ARgAAAABzcQB+AGIAcHNxAH4AZ3VxAH4ARgAAAABzcQB+AGIAcHNxAH4AZ3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ah3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiHNxAH4Ae3QAA0FueXNxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AId0AAVzY2FsYXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTG76rzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUAG+w117SJtNY/nVAEXCx4ehF56g=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCshIW3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKeuPTl0AANnY2ZzcQB+AAym3yZJdAAGbm90aWZ5c3EAfgAMWoRBsnQACWZhY3RvcmlhbHNxAH4ADDAomnR0AAR3YWl0c3EAfgAM8Lp1uXQADSRhc0luc3RhbmNlT2ZzcQB+AAyAh/ysdAAMaXNQYWxpbmRyb21lc3EAfgAMHfh/8nQABmVxdWFsc3NxAH4ADICKR/B0AAxhc0luc3RhbmNlT2ZzcQB+AAyhiZPPdAAMc3luY2hyb25pemVkc3EAfgAM5LoPoXQADSRpc0luc3RhbmNlT2ZzcQB+AAwteGaHdAAJbmV4dFByaW1lc3EAfgAMj6SkznQACW5vdGlmeUFsbHNxAH4ADKcsMiB0AAhuQ2hvb3NlUnNxAH4ADGZLD/R0AAxpc0luc3RhbmNlT2ZzcQB+AAwTtPLVdAATcHJpbWVfZmFjdG9yaXphdGlvbnNxAH4ADILlA7J0AAI9PXNxAH4ADPOQtut0AAdpc1ByaW1lc3EAfgAMA7aNL3QABWNsb25lc3EAfgAMx2ztSXQACHRvU3RyaW5nc3EAfgAMW4Q0VnQAAiE9c3EAfgAMgnc793QACWZ1bmN0aW9uc3NxAH4ADGurJGZ0AAhnZXRDbGFzc3NxAH4ADHoY8k90AAJuZXNxAH4ADBdH/K10AANsY21zcQB+AAxMgohFdAACZXFzcQB+AAxKNEUSdAACIyNzcQB+AAz/9MeGdAAIZmluYWxpemVzcQB+AAwrYKD5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBneHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBmAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG9zcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBudAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCHdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIc3EAfgB7dAADQW55c3EAfgB/c3EAfgCCdXEAfgCFAAAAAnNxAH4Ah3QABXNjYWxhcQB+AI5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUx4CWVHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvVXNlcnMvQ3JlZWQvZXVsZXIvRXVsZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJrZ6lL1pL0ly0HsnlftJN0voIAj
 /Users/Creed/euler/Euler/src/main/scala/results.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAz4NhKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIH9o3l0AAZub3RpZnlzcQB+AAyaKOJFdAAEd2FpdHNxAH4ADArm5th0AA0kYXNJbnN0YW5jZU9mc3EAfgAMC/XgKnQABmVxdWFsc3NxAH4ADGG+wCh0AAxhc0luc3RhbmNlT2ZzcQB+AAyzr8DldAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxUCgFHdAAMc3luY2hyb25pemVkc3EAfgAMyq2ycnQADSRpc0luc3RhbmNlT2ZzcQB+AAw3SxNIdAAFX2FyZ3NzcQB+AAx/WfGUdAAEbWFpbnNxAH4ADBNlbg90AAhpbml0Q29kZXNxAH4ADEtpNOx0AAlub3RpZnlBbGxzcQB+AAzeUK6OdAAMaXNJbnN0YW5jZU9mc3EAfgAMTISdMnQAB3Jlc3VsdHNzcQB+AAy0cKvjdAACPT1zcQB+AAw2gQEGdAAFY2xvbmVzcQB+AAyc7KJIdAAIdG9TdHJpbmdzcQB+AAyVKiy9dAAEYXJnc3NxAH4ADMq0JdZ0AAIhPXNxAH4ADFi+6j50AAhnZXRDbGFzc3NxAH4ADPZGAbd0AAJuZXNxAH4ADFZbY/R0AAJlcXNxAH4ADA8JeEV0AAtkZWxheWVkSW5pdHNxAH4ADIBmhId0AAIjI3NxAH4ADMvfWD50AAhmaW5hbGl6ZXNxAH4ADD7v8MN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBpc3EAfgBiAXVxAH4ARgAAAABwc3EAfgBiAXVxAH4ARgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATHEAfgBVdXEAfgBWAAAAAHNxAH4AWABxAH4AIXVxAH4AWgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB6WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgB5dAAFQXJyYXlxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB5dAAGU3RyaW5nc3EAfgB9c3EAfgCAdXEAfgCDAAAAA3NxAH4AhXQABGphdmFzcQB+AIV0AARsYW5ncQB+AIpwc3EAfgBiAXVxAH4AnQAAAARzcQB+AHl0AANBcHBxAH4Af3NxAH4AeXQAC0RlbGF5ZWRJbml0cQB+AH9zcQB+AHl0AAZPYmplY3RxAH4AoXNxAH4AeXQAA0FueXEAfgB/cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMbvqvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRF/MFoM/TRoJ0oJ0SVJXXjhF+VNQ==
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAz4NhKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIH9o3l0AAZub3RpZnlzcQB+AAyaKOJFdAAEd2FpdHNxAH4ADArm5th0AA0kYXNJbnN0YW5jZU9mc3EAfgAMC/XgKnQABmVxdWFsc3NxAH4ADGG+wCh0AAxhc0luc3RhbmNlT2ZzcQB+AAyzr8DldAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxUCgFHdAAMc3luY2hyb25pemVkc3EAfgAMyq2ycnQADSRpc0luc3RhbmNlT2ZzcQB+AAw3SxNIdAAFX2FyZ3NzcQB+AAx/WfGUdAAEbWFpbnNxAH4ADBNlbg90AAhpbml0Q29kZXNxAH4ADEtpNOx0AAlub3RpZnlBbGxzcQB+AAzeUK6OdAAMaXNJbnN0YW5jZU9mc3EAfgAMTISdMnQAB3Jlc3VsdHNzcQB+AAy0cKvjdAACPT1zcQB+AAw2gQEGdAAFY2xvbmVzcQB+AAyc7KJIdAAIdG9TdHJpbmdzcQB+AAyVKiy9dAAEYXJnc3NxAH4ADMq0JdZ0AAIhPXNxAH4ADFi+6j50AAhnZXRDbGFzc3NxAH4ADPZGAbd0AAJuZXNxAH4ADFZbY/R0AAJlcXNxAH4ADA8JeEV0AAtkZWxheWVkSW5pdHNxAH4ADIBmhId0AAIjI3NxAH4ADMvfWD50AAhmaW5hbGl6ZXNxAH4ADD7v8MN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBpc3EAfgBiAXVxAH4ARgAAAABwc3EAfgBiAXVxAH4ARgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATHEAfgBVdXEAfgBWAAAAAHNxAH4AWABxAH4AIXVxAH4AWgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB6WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgB5dAAFQXJyYXlxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB5dAAGU3RyaW5nc3EAfgB9c3EAfgCAdXEAfgCDAAAAA3NxAH4AhXQABGphdmFzcQB+AIV0AARsYW5ncQB+AIpwc3EAfgBiAXVxAH4AnQAAAARzcQB+AHl0AANBcHBxAH4Af3NxAH4AeXQAC0RlbGF5ZWRJbml0cQB+AH9zcQB+AHl0AAZPYmplY3RxAH4AoXNxAH4AeXQAA0FueXEAfgB/cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeculJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQpcVmqgJ8BokuUUtEvcuWaApBYbQ==
 /Users/Creed/euler/Euler/src/main/scala/s1.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHASK4roAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ1Qg1V0AAZub3RpZnlzcQB+AAxqU3WNdAAEd2FpdHNxAH4ADB7yjyB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMcFsyd3QABXNvbHZlc3EAfgAMz2IQNHQABmVxdWFsc3NxAH4ADKct7190AAxhc0luc3RhbmNlT2ZzcQB+AAx7RpFQdAAMc3luY2hyb25pemVkc3EAfgAM1TjGfHQADSRpc0luc3RhbmNlT2ZzcQB+AAyO2BU9dAAJbm90aWZ5QWxsc3EAfgAMndhzSXQADGlzSW5zdGFuY2VPZnNxAH4ADLefMYF0AAY8aW5pdD5zcQB+AAwyoq2SdAACczFzcQB+AAwfsJ0BdAACPT1zcQB+AAy5w92qdAAFY2xvbmVzcQB+AAwc6UaXdAAIdG9TdHJpbmdzcQB+AAwmxafpdAACIT1zcQB+AAwW0AMMdAAIZ2V0Q2xhc3NzcQB+AAzBCVzgdAACbmVzcQB+AAwihIJxdAACZXFzcQB+AAztAwdFdAACIyNzcQB+AAyEBqSFdAAIZmluYWxpemVzcQB+AAwNYdC/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBhc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQACFNvbHV0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwc3EAfgBtdAAGT2JqZWN0c3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cQB+AHp0AARqYXZhc3EAfgCBdAAEbGFuZ3EAfgB7c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AgXQABXNjYWxhcQB+AHtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUxraQfnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvVXNlcnMvQ3JlZWQvZXVsZXIvRXVsZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGQ1kRrZ5tUHdcMq0xl3Vx9l1cAs
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxpcQzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHtQyLR0AAZub3RpZnlzcQB+AAzHYV9ndAAEd2FpdHNxAH4ADOrAcbt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxPJHv3QABXNvbHZlc3EAfgAMGlwApnQABmVxdWFsc3NxAH4ADN+P2hd0AAxhc0luc3RhbmNlT2ZzcQB+AAwDG4/gdAAMc3luY2hyb25pemVkc3EAfgAMb9sfIHQADSRpc0luc3RhbmNlT2ZzcQB+AAy9vdpddAAJbm90aWZ5QWxsc3EAfgAMRhWcLXQADGlzSW5zdGFuY2VPZnNxAH4ADGf1cGJ0AAY8aW5pdD5zcQB+AAzvDtWsdAACPT1zcQB+AAxzSxc0dAAFY2xvbmVzcQB+AAx2vDuHdAAIdG9TdHJpbmdzcQB+AAzKjPk/dAACIT1zcQB+AAwdjiuadAAIZ2V0Q2xhc3NzcQB+AAxB+VXedAACbmVzcQB+AAw+89QBdAACZXFzcQB+AAyOGcA9dAADczEwc3EAfgAMst39KnQAAiMjc3EAfgAMqSi7BnQACGZpbmFsaXplc3EAfgAMP09VkXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBjc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4Ac3QABk9iamVjdHNxAH4Ad3NxAH4AenVxAH4AfQAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCAdAAEamF2YXNxAH4Ah3QABGxhbmdxAH4AgXNxAH4Ac3QAA0FueXNxAH4Ad3NxAH4AenVxAH4AfQAAAAJzcQB+AId0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTG76rzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULPmdDyAucDH58k4J0opaZIh/uQM=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxpcQzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHtQyLR0AAZub3RpZnlzcQB+AAzHYV9ndAAEd2FpdHNxAH4ADOrAcbt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxPJHv3QABXNvbHZlc3EAfgAMGlwApnQABmVxdWFsc3NxAH4ADN+P2hd0AAxhc0luc3RhbmNlT2ZzcQB+AAwDG4/gdAAMc3luY2hyb25pemVkc3EAfgAMb9sfIHQADSRpc0luc3RhbmNlT2ZzcQB+AAy9vdpddAAJbm90aWZ5QWxsc3EAfgAMRhWcLXQADGlzSW5zdGFuY2VPZnNxAH4ADGf1cGJ0AAY8aW5pdD5zcQB+AAzvDtWsdAACPT1zcQB+AAxzSxc0dAAFY2xvbmVzcQB+AAx2vDuHdAAIdG9TdHJpbmdzcQB+AAzKjPk/dAACIT1zcQB+AAwdjiuadAAIZ2V0Q2xhc3NzcQB+AAxB+VXedAACbmVzcQB+AAw+89QBdAACZXFzcQB+AAyOGcA9dAADczEwc3EAfgAMst39KnQAAiMjc3EAfgAMqSi7BnQACGZpbmFsaXplc3EAfgAMP09VkXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFoBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYXNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AbXQABk9iamVjdHNxAH4AcXNxAH4AdHVxAH4AdwAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgB6dAAEamF2YXNxAH4AgXQABGxhbmdxAH4Ae3NxAH4AbXQAA0FueXNxAH4AcXNxAH4AdHVxAH4AdwAAAAJzcQB+AIF0AAVzY2FsYXEAfgB7cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMb0/qZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTAUfP/VTrtKTP1Zxbyuv3DgO65lA==
+/Users/Creed/euler/Euler/src/main/scala/s11.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMb0/qZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7bj7pCELVikdQNc4xHbwidnfeNQ=
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHABHBYpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH9+CSV0AAZub3RpZnlzcQB+AAyVOjJGdAAEd2FpdHNxAH4ADMGElqN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMTLN7H3QAA3MxMnNxAH4ADInb6wZ0AAVzb2x2ZXNxAH4ADHeAA8d0AAZlcXVhbHNzcQB+AAwrI3mvdAAMYXNJbnN0YW5jZU9mc3EAfgAM+fuCTXQADHN5bmNocm9uaXplZHNxAH4ADM1+KuF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ5McfXQACW5vdGlmeUFsbHNxAH4ADI6dJll0AAxpc0luc3RhbmNlT2ZzcQB+AAyMYLRcdAAGPGluaXQ+c3EAfgAMFiZhGnQAAj09c3EAfgAMez1q5nQACnRyaWFuZ2xpZnlzcQB+AAzJRHovdAAFY2xvbmVzcQB+AAzS0xhNdAAIdG9TdHJpbmdzcQB+AAx0ktTldAAMY291bnRGYWN0b3Jzc3EAfgAM2IdOpnQAAiE9c3EAfgAMrorXl3QACGdldENsYXNzc3EAfgAM11bZOHQAAm5lc3EAfgAMckIXyHQAAmVxc3EAfgAMf4sFGXQAAiMjc3EAfgAMYGVCQXQACGZpbmFsaXplc3EAfgAMZfUD43QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZXNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AcXQABk9iamVjdHNxAH4AdXNxAH4AeHVxAH4AewAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgB+dAAEamF2YXNxAH4AhXQABGxhbmdxAH4Af3NxAH4AcXQAA0FueXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AIV0AAVzY2FsYXEAfgB/cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc1Lbh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTTR6kgaXRq3WHH6j7j+g5JS2bKAg==
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCsAQzaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGj1/zZ0AAZub3RpZnlzcQB+AAwCZuF7dAAEd2FpdHNxAH4ADHOOIsd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6kABBnQABXNvbHZlc3EAfgAMbiI0d3QABmVxdWFsc3NxAH4ADPgO08V0AAxhc0luc3RhbmNlT2ZzcQB+AAx69+rRdAADczEzc3EAfgAMoMRVJXQADHN5bmNocm9uaXplZHNxAH4ADFLUmQN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMSNPq83QACW5vdGlmeUFsbHNxAH4ADFcRJUB0AAxpc0luc3RhbmNlT2ZzcQB+AAxQq27GdAAGPGluaXQ+c3EAfgAMaRto5nQAAj09c3EAfgAMEYgUgXQABWNsb25lc3EAfgAM54f2cHQACHRvU3RyaW5nc3EAfgAMoH+cTnQAAiE9c3EAfgAM+8YGXHQACGdldENsYXNzc3EAfgAMxRYvB3QAAm5lc3EAfgAMIwaTPHQAAmVxc3EAfgAMQQKHHHQAAiMjc3EAfgAMJWl2XXQACGZpbmFsaXplc3EAfgAMsvgVAHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAbdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFoBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYXNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AbXQABk9iamVjdHNxAH4AcXNxAH4AdHVxAH4AdwAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgB6dAAEamF2YXNxAH4AgXQABGxhbmdxAH4Ae3NxAH4AbXQAA0FueXNxAH4AcXNxAH4AdHVxAH4AdwAAAAJzcQB+AIF0AAVzY2FsYXEAfgB7cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc9AdB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTO+kWcAHazX1iyK88vMgmovFz72Q==
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCeEJ3vAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJBXy1N0AAZub3RpZnlzcQB+AAz/GUIFdAAEd2FpdHNxAH4ADM+0Y7J0AA0kYXNJbnN0YW5jZU9mc3EAfgAMYlF/Y3QABXNvbHZlc3EAfgAMTwgA2XQABmVxdWFsc3NxAH4ADGSb79x0AAxhc0luc3RhbmNlT2ZzcQB+AAzhnLhjdAAMc3luY2hyb25pemVkc3EAfgAMgqKQE3QADSRpc0luc3RhbmNlT2ZzcQB+AAwZVZR9dAAJbm90aWZ5QWxsc3EAfgAMP4jk4XQADGlzSW5zdGFuY2VPZnNxAH4ADIfIBNp0AANzMTRzcQB+AAyMxuzCdAAGPGluaXQ+c3EAfgAMWoTqlHQAAj09c3EAfgAM8Jx0w3QABWNsb25lc3EAfgAMVcKqxnQAB2NvbGxhdHpzcQB+AAw908JLdAAIdG9TdHJpbmdzcQB+AAwKniHWdAACIT1zcQB+AAy7xl5ydAAIZ2V0Q2xhc3NzcQB+AAyIVLUvdAACbmVzcQB+AAxpHq+cdAACZXFzcQB+AAxjfObCdAACIyNzcQB+AAwQJiQ9dAAIZmluYWxpemVzcQB+AAx1OxJTdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBjc3EAfgBcAXVxAH4AQAAAAABwc3EAfgBcAXVxAH4AQAAAAABwc3EAfgBcAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQACFNvbHV0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwc3EAfgBvdAAGT2JqZWN0c3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cQB+AHx0AARqYXZhc3EAfgCDdAAEbGFuZ3EAfgB9c3EAfgBvdAADQW55c3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ag3QABXNjYWxhcQB+AH1wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUx2BPGXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvVXNlcnMvQ3JlZWQvZXVsZXIvRXVsZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNn9gtWtukpQ39xV5cDCBInAXfpn
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBrXq3GAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNQAVk10AAZub3RpZnlzcQB+AAyn81zNdAAEd2FpdHNxAH4ADPFM5O50AA0kYXNJbnN0YW5jZU9mc3EAfgAMLaGXCXQABXNvbHZlc3EAfgAMF8O9zHQABmVxdWFsc3NxAH4ADKrQD1h0AAxhc0luc3RhbmNlT2ZzcQB+AAx9ObKFdAAMc3luY2hyb25pemVkc3EAfgAM9n9Y+3QADSRpc0luc3RhbmNlT2ZzcQB+AAwAVFhNdAAJbm90aWZ5QWxsc3EAfgAMptX+e3QADGlzSW5zdGFuY2VPZnNxAH4ADCf/GdJ0AAY8aW5pdD5zcQB+AAzfKy8cdAACPT1zcQB+AAyKIykhdAAFY2xvbmVzcQB+AAytrFy5dAAIdG9TdHJpbmdzcQB+AAwrKwJndAACIT1zcQB+AAwIagvndAAIZ2V0Q2xhc3NzcQB+AAw6oKsqdAACbmVzcQB+AAwNKXIDdAADczE1c3EAfgAMNj1+53QAAmVxc3EAfgAMGNBnzXQAAiMjc3EAfgAMyZ+7d3QACGZpbmFsaXplc3EAfgAMMwSDqnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGNzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBidAAIU29sdXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHBzcQB+AG90AAZPYmplY3RzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhxAH4AfHQABGphdmFzcQB+AIN0AARsYW5ncQB+AH1zcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgCDdAAFc2NhbGFxAH4AfXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTHgJZUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmnshTT518KgLVFc6VicHNyFjUqo=
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAxfaGmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPraZ+Z0AAZub3RpZnlzcQB+AAw8w4CndAAEd2FpdHNxAH4ADN+0iX90AANzMTZzcQB+AAwNxCp6dAANJGFzSW5zdGFuY2VPZnNxAH4ADHWOzcV0AAVzb2x2ZXNxAH4ADN/oXR50AAZlcXVhbHNzcQB+AAx3+WgbdAAMYXNJbnN0YW5jZU9mc3EAfgAM9G96vnQADHN5bmNocm9uaXplZHNxAH4ADPNXAtB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMoaI4SnQACW5vdGlmeUFsbHNxAH4ADKt6vD90AAxpc0luc3RhbmNlT2ZzcQB+AAw7xfcKdAAGPGluaXQ+c3EAfgAM2C1tX3QAAj09c3EAfgAMseFvf3QABWNsb25lc3EAfgAMIaz8THQACHRvU3RyaW5nc3EAfgAMux61X3QAAiE9c3EAfgAM7NYa03QACGdldENsYXNzc3EAfgAM4bsAO3QAAm5lc3EAfgAMmVyQPXQAAmVxc3EAfgAMQhX8+3QAAiMjc3EAfgAMxCTciXQACGZpbmFsaXplc3EAfgAMJarqp3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgATdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGNzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBidAAIU29sdXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHBzcQB+AG90AAZPYmplY3RzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhxAH4AfHQABGphdmFzcQB+AIN0AARsYW5ncQB+AH1zcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgCDdAAFc2NhbGFxAH4AfXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTHgJZUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbTe/2fpsV1Xl/QcW1UBjsYzMYC4=
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB3I3D/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNDDmg90AAZub3RpZnlzcQB+AAyZT8HKdAAIdHdvRGlnaXRzcQB+AAwl8Sn1dAADczE3c3EAfgAMtXYBD3QABHdhaXRzcQB+AAxxms+cdAANJGFzSW5zdGFuY2VPZnNxAH4ADKi39pR0AAp0aHJlZURpZ2l0c3EAfgAMfo/I33QABXNvbHZlc3EAfgAMVQpkF3QABmVxdWFsc3NxAH4ADFk+c4t0AAxhc0luc3RhbmNlT2ZzcQB+AAzGg0qfdAAMc3luY2hyb25pemVkc3EAfgAMAIk+83QADSRpc0luc3RhbmNlT2ZzcQB+AAw5hgRMdAAJbm90aWZ5QWxsc3EAfgAMEgqvL3QADGlzSW5zdGFuY2VPZnNxAH4ADLJMFLp0AAY8aW5pdD5zcQB+AAy4Z4csdAACPT1zcQB+AAwFWFtgdAAFY2xvbmVzcQB+AAzyqK98dAAFd29yZHNzcQB+AAwNiW0rdAAIdG9TdHJpbmdzcQB+AAwU6E9udAACIT1zcQB+AAywt0V4dAAIZ2V0Q2xhc3NzcQB+AAzlabHDdAACbmVzcQB+AAyWIqQddAACZXFzcQB+AAyEfBqYdAACIyNzcQB+AAzGIKfQdAAIZmluYWxpemVzcQB+AAxIjQlhdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBnc3EAfgBgAXVxAH4ARAAAAABwc3EAfgBgAXVxAH4ARAAAAABwc3EAfgBgAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZnQACFNvbHV0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwc3EAfgBzdAAGT2JqZWN0c3EAfgB3c3EAfgB6dXEAfgB9AAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cQB+AIB0AARqYXZhc3EAfgCHdAAEbGFuZ3EAfgCBc3EAfgBzdAADQW55c3EAfgB3c3EAfgB6dXEAfgB9AAAAAnNxAH4Ah3QABXNjYWxhcQB+AIFwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUx459U3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvVXNlcnMvQ3JlZWQvZXVsZXIvRXVsZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI6iBKVaGb2bZ2RmdAF6YbwrgBFn
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHArri3ZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLz31wF0AAZub3RpZnlzcQB+AAx7H4nIdAAEd2FpdHNxAH4ADIvVp9h0AA0kYXNJbnN0YW5jZU9mc3EAfgAMezKo+nQABXNvbHZlc3EAfgAM5aQOPnQABmVxdWFsc3NxAH4ADJA2a3R0AAxhc0luc3RhbmNlT2ZzcQB+AAytIVfwdAAMc3luY2hyb25pemVkc3EAfgAMA0q6JnQADSRpc0luc3RhbmNlT2ZzcQB+AAwFCnJpdAAJbm90aWZ5QWxsc3EAfgAMpU40E3QADGlzSW5zdGFuY2VPZnNxAH4ADB85CgR0AAY8aW5pdD5zcQB+AAxkZjrkdAACPT1zcQB+AAzcWSIhdAAFY2xvbmVzcQB+AAxNjaPldAAIdG9TdHJpbmdzcQB+AAwgK0Q8dAACIT1zcQB+AAwZ8kJRdAAIZ2V0Q2xhc3NzcQB+AAzuC8b5dAADczE4c3EAfgAMl/Si33QAAm5lc3EAfgAMDFZbX3QAAmVxc3EAfgAMNvD3m3QAAiMjc3EAfgAMyiFnXHQACGZpbmFsaXplc3EAfgAMIrvnXnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFoBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYXNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AbXQABk9iamVjdHNxAH4AcXNxAH4AdHVxAH4AdwAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgB6dAAEamF2YXNxAH4AgXQABGxhbmdxAH4Ae3NxAH4AbXQAA0FueXNxAH4AcXNxAH4AdHVxAH4AdwAAAAJzcQB+AIF0AAVzY2FsYXEAfgB7cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeaQDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT9L7dHQ3lhH9v9qMQFufeTVrleCw==
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDoBDaEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOWhrIx0AAZub3RpZnlzcQB+AAz+DAMbdAAIbGVhcFllYXJzcQB+AAwUyqv9dAAEd2FpdHNxAH4ADOOYPlB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxwQeeHQAA3MxOXNxAH4ADNWc34N0AAVzb2x2ZXNxAH4ADLKJTvt0AAZlcXVhbHNzcQB+AAydSKD2dAAMYXNJbnN0YW5jZU9mc3EAfgAMR3lsOHQADHN5bmNocm9uaXplZHNxAH4ADOYgOzZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1/lrBXQACW5vdGlmeUFsbHNxAH4ADJlr9rF0AAxjb3VudFN1bmRheXNzcQB+AAxh45LedAALZGF5c0luTW9udGhzcQB+AAx9Oj03dAAMaXNJbnN0YW5jZU9mc3EAfgAMWD3JeHQABjxpbml0PnNxAH4ADE/HQb90AAI9PXNxAH4ADOX+8jV0AAVjbG9uZXNxAH4ADDcson90AAh0b1N0cmluZ3NxAH4ADCdW/qV0AAIhPXNxAH4ADIvhNkJ0AAhnZXRDbGFzc3NxAH4ADMKyrl10AAJuZXNxAH4ADOEJWmF0AAJlcXNxAH4ADHcdcJ10AAIjI3NxAH4ADEFDdGV0AAhmaW5hbGl6ZXNxAH4ADJJYVIB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AF3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBgAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGdzcQB+AGABdXEAfgBEAAAAAHBzcQB+AGABdXEAfgBEAAAAAHBzcQB+AGABdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAIU29sdXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHBzcQB+AHN0AAZPYmplY3RzcQB+AHdzcQB+AHp1cQB+AH0AAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhxAH4AgHQABGphdmFzcQB+AId0AARsYW5ncQB+AIFzcQB+AHN0AANBbnlzcQB+AHdzcQB+AHp1cQB+AH0AAAACc3EAfgCHdAAFc2NhbGFxAH4AgXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTHnLpSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3kRlQxF2KBXpJjL1cSjAuccx/04=
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDKJa22AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cP0ldch0AAZub3RpZnlzcQB+AAwKGCagdAADZmlic3EAfgAMxLsXv3QABHdhaXRzcQB+AAxpHzHadAANJGFzSW5zdGFuY2VPZnNxAH4ADNOgMAN0AAVzb2x2ZXNxAH4ADCPL2+10AAZlcXVhbHNzcQB+AAzI8CFrdAAMYXNJbnN0YW5jZU9mc3EAfgAMJLJxV3QADHN5bmNocm9uaXplZHNxAH4ADO4UXV50AA0kaXNJbnN0YW5jZU9mc3EAfgAM6AjHunQAAnMyc3EAfgAMCzNfNnQACW5vdGlmeUFsbHNxAH4ADKxUDNt0AAxpc0luc3RhbmNlT2ZzcQB+AAxVajm7dAAGPGluaXQ+c3EAfgAMYMKitXQAAj09c3EAfgAMSloTgnQABWNsb25lc3EAfgAMOr0uI3QACHRvU3RyaW5nc3EAfgAMWw6Mj3QAAiE9c3EAfgAM8tsgFHQACGdldENsYXNzc3EAfgAMmfBrdHQAAm5lc3EAfgAMX1vvu3QAAmVxc3EAfgAMI7p8fXQAAiMjc3EAfgAMljdTWXQACGZpbmFsaXplc3EAfgAMh/lvCnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AY3NxAH4AXAF1cQB+AEAAAAAAcHNxAH4AXAF1cQB+AEAAAAAAcHNxAH4AXAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4Ab3QABk9iamVjdHNxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgB8dAAEamF2YXNxAH4Ag3QABGxhbmdxAH4AfXNxAH4Ab3QAA0FueXNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AIN0AAVzY2FsYXEAfgB9cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMa2kH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL1VzZXJzL0NyZWVkL2V1bGVyL0V1bGVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTw5XMmFa2HAn2GffrucSDKzRcXOg==
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBgVg8RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOsHTu10AAZub3RpZnlzcQB+AAwBjNDSdAAEd2FpdHNxAH4ADOSUiWF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM4DIyYXQABXNvbHZlc3EAfgAMzu0Zo3QABmVxdWFsc3NxAH4ADJ9Dg7J0AAxhc0luc3RhbmNlT2ZzcQB+AAzvzv5tdAAMc3luY2hyb25pemVkc3EAfgAMbTW4W3QADSRpc0luc3RhbmNlT2ZzcQB+AAxHtGtudAAJbm90aWZ5QWxsc3EAfgAM0JCqLnQADGlzSW5zdGFuY2VPZnNxAH4ADLizC7p0AAY8aW5pdD5zcQB+AAxweCzddAACPT1zcQB+AAyubVnfdAAFY2xvbmVzcQB+AAzztPM0dAAIdG9TdHJpbmdzcQB+AAw3G8hJdAADczIwc3EAfgAMtNEzHXQAAiE9c3EAfgAMhXsuc3QACGdldENsYXNzc3EAfgAMT4xbzXQAAm5lc3EAfgAMxKpTPHQAAmVxc3EAfgAMrkN0fHQAAiMjc3EAfgAMTeeg03QACGZpbmFsaXplc3EAfgAM2uYoRnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBjc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAhTb2x1dGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4Ac3QABk9iamVjdHNxAH4Ad3NxAH4AenVxAH4AfQAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCAdAAEamF2YXNxAH4Ah3QABGxhbmdxAH4AgXNxAH4Ac3QAA0FueXNxAH4Ad3NxAH4AenVxAH4AfQAAAAJzcQB+AId0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTHnLpSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7NjEFB/jWemHCXNZBT+gBy2Tqtw=
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC91Hs/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIWIQoF0AAZub3RpZnlzcQB+AAy4LDWRdAACczNzcQB+AAzhV7kldAAEd2FpdHNxAH4ADKFMhrB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMlEG1InQABXNvbHZlc3EAfgAM10ERo3QABmVxdWFsc3NxAH4ADPNQ8Xl0AAxhc0luc3RhbmNlT2ZzcQB+AAzpHmY3dAAMc3luY2hyb25pemVkc3EAfgAMWQ1PB3QADSRpc0luc3RhbmNlT2ZzcQB+AAx9t/nTdAAJbm90aWZ5QWxsc3EAfgAMlKqggnQADGlzSW5zdGFuY2VPZnNxAH4ADG1SHLh0AAY8aW5pdD5zcQB+AAwCWsS7dAACPT1zcQB+AAzAJkIbdAAFY2xvbmVzcQB+AAzxsJaWdAAIdG9TdHJpbmdzcQB+AAwC7JaAdAACIT1zcQB+AAwogwindAAIZ2V0Q2xhc3NzcQB+AAwdYD83dAACbmVzcQB+AAz0XBMKdAACZXFzcQB+AAyRiBBldAACIyNzcQB+AAxZmZmpdAAIZmluYWxpemVzcQB+AAwHAKEvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBhc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVxAH4APgAAAABwc3EAfgBaAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQACFNvbHV0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwc3EAfgBtdAAGT2JqZWN0c3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cQB+AHp0AARqYXZhc3EAfgCBdAAEbGFuZ3EAfgB7c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AgXQABXNjYWxhcQB+AHtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUxraQfnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvVXNlcnMvQ3JlZWQvZXVsZXIvRXVsZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMziZngAkapV4zu0rMPFQ7n9+5hH
 /Users/Creed/euler/Euler/src/main/scala/s4.scala -> 
@@ -550,7 +928,7 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhf
 external apis:
 0 items
 source infos:
-13 items
+23 items
 /Users/Creed/euler/Euler/src/main/scala/Solution.scala -> 
 AAAAAAAAAAA=
 /Users/Creed/euler/Euler/src/main/scala/functions.scala -> 
@@ -561,7 +939,27 @@ AAAAAAAAAAA=
 AAAAAAAAAAA=
 /Users/Creed/euler/Euler/src/main/scala/s10.scala -> 
 AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s11.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s12.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s13.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s14.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s15.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s16.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s17.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s18.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s19.scala -> 
+AAAAAAAAAAA=
 /Users/Creed/euler/Euler/src/main/scala/s2.scala -> 
+AAAAAAAAAAA=
+/Users/Creed/euler/Euler/src/main/scala/s20.scala -> 
 AAAAAAAAAAA=
 /Users/Creed/euler/Euler/src/main/scala/s3.scala -> 
 AAAAAAAAAAA=
@@ -578,7 +976,7 @@ AAAAAAAAAAA=
 /Users/Creed/euler/Euler/src/main/scala/s9.scala -> 
 AAAAAAAAAAA=
 compilations:
-16 items
+40 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMazJD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMa2kH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMa6JqZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
@@ -595,3 +993,27 @@ compilations:
 13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMboutp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
 14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMbqBgR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
 15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMbvqvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMb0/qZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMb+Og11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMb/0up1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMcBteN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc1Lbh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc3yXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc4HRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc42sd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc6G8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc6PoR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc7We51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMc9AdB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMdeTtd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMdetAl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMdfFiN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMdgTxl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMd4BVh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMd6sE51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeAllR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeHQaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeOfVN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeOutF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeaQDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMeculJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9Vc2Vycy9DcmVlZC9ldWxlci9FdWxlci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
