@@ -1,5 +1,5 @@
 object functions {
-	//TODO: Implement Generics
+
 	def factorial(n: Int) = (BigInt(1) to n).product
 
 	def gcf(a: Long, b: Long): Long = if (b == 0) a else gcf(b, a % b)
@@ -29,5 +29,7 @@ object functions {
 			case None => List(n) // n is prime. 
 		}
 	}
+	
+	def properDivisors(n: Long) = (1L to n/2).filter(i => n % i == 0)
 
 }
