@@ -3,7 +3,7 @@ that always moves down. Ex. if you begin in row 0, your 1st move must take you i
 class s18 extends Solution {
 
 	def solve() = {
-		val source = scala.io.Source.fromFile("resources/18.txt").getLines
+		val source = scala.io.Source.fromFile("resources/problem_18.txt").getLines
 		val matrix = (for (line <- source) yield line.split(" ").map(_.toInt).toList).toList
 		
 		val memoTable = collection.mutable.Map[(Int, Int), Int]()
